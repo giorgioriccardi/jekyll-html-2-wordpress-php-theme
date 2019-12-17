@@ -1,0 +1,89 @@
+/*
+Theme Name:     Opposition TV
+Theme URI:      http://ssws.ca
+Description:    Custom theme for Opposition TV from static HTML Jekill generated site
+Author:         Giorgio Riccardi
+Author URI:     https://www.ssws.ca
+Version:        1.0.0
+*/
+
+
+/* 
+COLORS:
+
+red: #A73227
+grey: #
+yellow: #
+ */
+
+
+@media screen and (min-width: 980px) {
+  /*desktop*/ 
+}
+
+@media screen and (max-width: 979px) {
+  /*mobile*/
+}
+
+@media (min-width: 300px) and (max-width: 979px) {
+  /*custom*/
+}
+
+
+
+
+/*********************************************************************************
+*********************************************************************************
+**********************************************************************************/
+
+body {
+  /*background-color: #fff;
+  background-repeat: repeat-x;
+  margin: 0 auto !important;
+  max-width: 1200px !important;  
+  padding: 0;*/
+
+  font-family: 'Ubuntu', 'sans-serif';
+  /* font-family: 'PT Sans', sans-serif; */
+  /*font-family: 'Lato', sans-serif;*/
+
+  /*font-size: 1em;*/
+  /* line-height: 1.4; */
+}
+
+body * {
+  /*text-shadow: none !important;*/
+}
+
+div {
+  /*box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;*/
+  
+  /* border: 1px dashed blue; */ /* debug */
+}
+
+
+
+/*********************************************************************************
+*********************************************************************************
+**********************************************************************************/
+
+/*MENU*/
+
+
+
+/*********************************************************************************
+*********************************************************************************
+**********************************************************************************/
+
+/*SLIDER*/
+
+
+
+/*********************************************************************************
+*********************************************************************************
+**********************************************************************************/
+
+/*temporary settings*/
+
