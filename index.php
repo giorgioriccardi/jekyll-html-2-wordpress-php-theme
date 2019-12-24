@@ -399,7 +399,7 @@ function notAllowCookies() {
         <script src="<?php echo get_template_directory_uri(); ?>/assets/js/jquery.ba-throttle-debounce.min.js">
         </script>
         <script src="<?php echo get_template_directory_uri(); ?>/assets/js/lory.min.js"></script>
-        <script src="<?php echo get_template_directory_uri(); ?>/assets/js/all.js"></script>
+        <!-- <script src="<?php // echo get_template_directory_uri(); ?>/assets/js/all.js"></script> -->
 
 
     </div>

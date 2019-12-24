@@ -16,7 +16,7 @@
 
     <link rel="stylesheet" href="https://s3.amazonaws.com/icomoon.io/33464/Oppositiontv/style.css?izyszw">
 
-    <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/assets/main.css">
+    <!-- <link rel="stylesheet" href="<?php // echo get_template_directory_uri(); ?>/assets/main.css"> -->
     <link rel="canonical" href="http://localhost:4000/">
     <link rel="alternate" type="application/rss+xml"
         title="Opposition | Helping artists grow across digital music platforms and YouTube." href="/feed.xml">
