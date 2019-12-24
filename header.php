@@ -38,4 +38,7 @@
             </ul>
             <button class="nav-toggle"><span></span></button>
         </nav>
+
+        <?php wp_head(); ?>
+
     </header>
